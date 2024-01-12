@@ -6,5 +6,9 @@
     {
         "package": "distrr",
         "url": "https://github.com/gibonet/distrr/"
+    },
+    {
+        "package": "impexpcsv",
+        "url": "https://gitlab.com/gibonet/impexpcsv"
     }
 ]
