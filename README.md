@@ -1,6 +1,6 @@
 # Packages for the Swiss Stats R Universe 
 
-This repo hosts the `package.json` configuration file used to build the [Swiss Stats R Universe](//rswissgroup.r-universe.dev/).
+This repo hosts the `package.json` configuration file used to build the [Swiss Stats R Universe](//swissstatsr.r-universe.dev/).
 
 ## Adding a new package
 
