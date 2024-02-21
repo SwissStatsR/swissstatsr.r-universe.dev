@@ -10,5 +10,9 @@
     {
         "package": "impexpcsv",
         "url": "https://gitlab.com/gibonet/impexpcsv"
+    },
+    {
+        "package": "testrepo",
+        "url": "https://github.com/SwissStatsR/testrepo"
     }
 ]
