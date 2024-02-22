@@ -14,5 +14,13 @@
     {
         "package": "testrepo",
         "url": "https://github.com/SwissStatsR/testrepo"
+    },
+    {
+        "package": "sgtourism",
+        "url": "https://github.com/SwissStatsR/sgtourism"
+    },
+    {
+        "package": "SpiGesXML",
+        "url": "https://github.com/SwissStatsR/SpiGesXML"
     }
 ]
