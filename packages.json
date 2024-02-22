@@ -14,5 +14,9 @@
     {
         "package": "testrepo",
         "url": "https://github.com/SwissStatsR/testrepo"
+    },
+    {
+        "package": "sgSpiGes",
+        "url": "https://github.com/SwissStatsR/sgSpiGes"
     }
 ]
