@@ -8,14 +8,6 @@
         "url": "https://github.com/gibonet/distrr/"
     },
     {
-        "package": "impexpcsv",
-        "url": "https://gitlab.com/gibonet/impexpcsv"
-    },
-    {
-        "package": "testrepo",
-        "url": "https://github.com/SwissStatsR/testrepo"
-    },
-    {
         "package": "sgtourism",
         "url": "https://github.com/statistikSG/sgtourism"
     },
