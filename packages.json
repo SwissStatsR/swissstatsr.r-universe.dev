@@ -15,7 +15,7 @@
         "package": "SpiGesXML",
         "url": "https://github.com/SwissStatsR/SpiGesXML"
     },
-	{
+    {
         "package": "impexpcsv",
         "url": "https://github.com/SwissStatsR/impexpcsv"
     }
