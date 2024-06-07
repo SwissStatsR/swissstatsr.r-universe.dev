@@ -18,5 +18,9 @@
     {
         "package": "impexpcsv",
         "url": "https://github.com/SwissStatsR/impexpcsv"
+    },
+    {
+        "package": "ghactionsOGD",
+        "url": "https://github.com/ogdtg/ghactionsOGD"
     }
 ]
