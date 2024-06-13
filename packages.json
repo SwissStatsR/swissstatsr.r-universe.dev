@@ -22,5 +22,9 @@
     {
         "package": "ghactionsOGD",
         "url": "https://github.com/ogdtg/ghactionsOGD"
+    },
+     {
+        "package": "noga",
+        "url": "https://github.com/SwissStatsR/noga"
     }
 ]
