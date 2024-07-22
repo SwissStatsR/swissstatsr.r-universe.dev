@@ -26,5 +26,10 @@
      {
         "package": "noga",
         "url": "https://github.com/SwissStatsR/noga"
+    },
+     {
+        "package": "dcatapchr",
+        "url": "https://github.com/SwissStatsR/dcatapchr"
     }
 ]
+
