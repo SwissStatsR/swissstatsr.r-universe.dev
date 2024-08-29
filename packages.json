@@ -30,6 +30,14 @@
      {
         "package": "dcatapchr",
         "url": "https://github.com/SwissStatsR/dcatapchr"
+    },
+     {
+        "package": "seasonal",
+        "url": "https://github.com/christophsax/seasonal"
+    },
+     {
+        "package": "propop",
+        "url": "https://github.com/statistik-aargau/propop"
     }
 ]
 
