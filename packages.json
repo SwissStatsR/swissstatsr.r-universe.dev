@@ -38,6 +38,10 @@
      {
         "package": "propop",
         "url": "https://github.com/statistik-aargau/propop"
+    },
+         {
+        "package": "submit",
+        "url": "https://github.com/SwissStatsR/submit"
     }
 ]
 
