@@ -23,23 +23,23 @@
         "package": "ghactionsOGD",
         "url": "https://github.com/ogdtg/ghactionsOGD"
     },
-     {
+    {
         "package": "noga",
         "url": "https://github.com/SwissStatsR/noga"
     },
-     {
+    {
         "package": "dcatapchr",
         "url": "https://github.com/SwissStatsR/dcatapchr"
     },
-     {
+    {
         "package": "seasonal",
         "url": "https://github.com/christophsax/seasonal"
     },
-     {
+    {
         "package": "propop",
         "url": "https://github.com/statistik-aargau/propop"
     },
-         {
+    {
         "package": "submit",
         "url": "https://github.com/SwissStatsR/submit"
     }
