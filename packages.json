@@ -39,6 +39,10 @@
         "package": "propop",
         "url": "https://github.com/statistik-aargau/propop"
     },
+        {
+        "package": "eneRgyVD",
+        "url": "https://github.com/mick-weber/eneRgyVD"
+    },
     {
         "package": "submit",
         "url": "https://github.com/SwissStatsR/submit"
