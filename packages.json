@@ -46,6 +46,10 @@
     {
         "package": "submit",
         "url": "https://github.com/SwissStatsR/submit"
+    },
+    {
+        "package": "zueritheme",
+        "url": "https://github.com/StatistikStadtZuerich/zueritheme"
     }
 ]
 
