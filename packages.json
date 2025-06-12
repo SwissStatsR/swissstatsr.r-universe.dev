@@ -50,6 +50,18 @@
     {
         "package": "zueritheme",
         "url": "https://github.com/StatistikStadtZuerich/zueritheme"
+    },
+    {
+        "package": "zuericolors",
+        "url": "https://github.com/StatistikStadtZuerich/zuericolors"
+    },
+    {
+        "package": "zueriplots",
+        "url": "https://github.com/StatistikStadtZuerich/zueriplots"
+    },
+    {
+        "package": "zueriverse",
+        "url": "https://github.com/StatistikStadtZuerich/zueriverse"
     }
 ]
 
