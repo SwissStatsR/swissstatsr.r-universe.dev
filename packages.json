@@ -62,6 +62,14 @@
     {
         "package": "zueriverse",
         "url": "https://github.com/StatistikStadtZuerich/zueriverse"
+    },
+    {
+        "package": "zuericssstyle",
+        "url": "https://github.com/StatistikStadtZuerich/zuericssstyle"
+    },
+    {
+        "package": "chensus",
+        "url": "https://github.com/afds-bl/chensus"
     }
 ]
 
