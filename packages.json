@@ -74,6 +74,10 @@
     {
         "package": "I14Y",
         "url": "https://github.com/lgnbhl/I14Y"
+    },
+    {
+        "package": "propopbirth",
+        "url": "https://github.com/statistik-aargau/propopbirth"
     }
 ]
 
